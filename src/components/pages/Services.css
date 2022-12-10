@@ -1,0 +1,47 @@
+.service-container {
+    background-color: beige;
+    height:320px;
+}
+
+.header {
+    text-align: center;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.service_img {
+    width: 250px;
+    height: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 5px solid red;
+}
+
+.service-image {
+    display: flex;
+}
+
+.service-text {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    justify-content: center;
+}
+
+.service-img-2 {
+    width: 300px;
+    height: 300px;
+}
+
+.service-text-1 {
+    width: 50%;
+    padding: 1rem;
+}
+
+.service-img1 {
+    width: 50%;
+}
+
+.text{
+    text-align: center;
+}
